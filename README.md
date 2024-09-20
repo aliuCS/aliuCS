@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+# LeetCode Challenges
+Progress and tracking of my LeetCode coding challenges!
+
+
+
+![](https://leetcard.jacoblin.cool/aliuCS?theme=light,unicorn)
 
 <!--
 **aliuCS/aliuCS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
