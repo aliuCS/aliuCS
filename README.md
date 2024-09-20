@@ -1,20 +1,6 @@
 ## Hi there 👋
 
 
-# Clone the project:
-git clone https://github.com/0l1v3rr/github-readme-tech-stack.git
-cd github-readme-tech-stack
-
-# Install the dependencies:
-npm i
-npm run prepare
-
-# Running the application:
-npm run dev
-
-# Running the storybook:
-npm run storybook
-
 <!--
 **aliuCS/aliuCS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
